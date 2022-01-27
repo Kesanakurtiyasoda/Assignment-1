@@ -67,7 +67,7 @@ var product3 = 20*5;
 console.log(product1 + product2 + product3);
 // assignment-10
 var item1 = (50*1)+4-5+6;
-var item2 = (100*2)+6+10+8;
-var item3 = (150*3)+8+20+10;
+var item2 = (100*2)+6-10+8;
+var item3 = (150*3)+8-20+10;
 
 console.log(item1 + item2 + item3);
